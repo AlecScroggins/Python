@@ -1,5 +1,5 @@
 # Python
-Python projects
+
 Requirements
 
 Python IDE
