@@ -4,10 +4,7 @@ Created on Tue May 19 10:57:03 2020
 
 @author: ascroggins
 """
-# keep score  
-# get username
-#record scores in file 
-#when score reaches certian point increase speed
+
 import pygame
 import sys
 import random 
